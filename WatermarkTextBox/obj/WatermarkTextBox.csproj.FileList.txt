@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CSharpWin.Properties.Resources.resources
+obj\Debug\WatermarkTextBox.csproj.GenerateResource.Cache
+bin\Debug\WatermarkTextBox.dll
+bin\Debug\WatermarkTextBox.pdb
+obj\Debug\WatermarkTextBox.dll
+obj\Debug\WatermarkTextBox.pdb
+bin\Release\WatermarkTextBox.dll
+bin\Release\WatermarkTextBox.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\CSharpWin.Properties.Resources.resources
+obj\Release\WatermarkTextBox.csproj.GenerateResource.Cache
+obj\Release\WatermarkTextBox.dll
+obj\Release\WatermarkTextBox.pdb
